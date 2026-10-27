@@ -1,0 +1,10 @@
+export declare class DgaCircularProgressBar {
+    RTL: boolean;
+    size: '200px' | '160px' | '120px' | '80px' | '64px';
+    text?: string;
+    variant?: 'primary' | 'neutral' | 'success' | 'error';
+    percentage?: number;
+    private sizes;
+    private iconSizes;
+    render(): any;
+}

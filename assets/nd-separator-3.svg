@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="24" viewBox="0 0 1440 24">
+  <defs>
+    <pattern id="ndp3" width="56" height="24" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#7D2E2E" stroke-width="1.2" opacity="0.6">
+        <path d="M4 12 L14 4 L24 12 L14 20 Z"/>
+        <path d="M32 12 L40 6 L48 12 L40 18 Z" stroke="#9DA4AE"/>
+      </g>
+    </pattern>
+  </defs>
+  <rect width="1440" height="24" fill="url(#ndp3)"/>
+</svg>

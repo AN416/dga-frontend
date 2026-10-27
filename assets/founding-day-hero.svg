@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="491" viewBox="0 0 1440 491" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#171310"/>
+      <stop offset="1" stop-color="#2B231E"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#171310" stop-opacity="0"/>
+      <stop offset="1" stop-color="#171310" stop-opacity="0.92"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="491" fill="url(#sky)"/>
+  <!-- Diriyah-style mud-brick towers, grayscale silhouette -->
+  <g fill="#4A4039">
+    <path d="M40 491 V300 L70 270 L100 300 V491 Z"/>
+    <path d="M120 491 V250 L150 215 L180 250 V491 Z"/>
+    <path d="M200 491 V330 H300 V491 Z"/>
+    <path d="M310 491 V280 L345 240 L380 280 V491 Z"/>
+    <path d="M400 491 V350 H520 V491 Z"/>
+    <path d="M530 491 V260 L575 215 L620 260 V491 Z"/>
+  </g>
+  <g fill="#5B4F45">
+    <path d="M90 491 V340 H190 V491 Z"/>
+    <path d="M260 491 V300 L295 265 L330 300 V491 Z"/>
+    <path d="M420 491 V310 L460 272 L500 310 V491 Z"/>
+    <path d="M560 491 V360 H700 V491 Z"/>
+  </g>
+  <!-- small triangular openings typical of Najdi architecture -->
+  <g fill="#221C17">
+    <path d="M62 320 l8 -12 8 12 Z"/><path d="M62 350 l8 -12 8 12 Z"/>
+    <path d="M142 280 l8 -12 8 12 Z"/><path d="M142 310 l8 -12 8 12 Z"/>
+    <path d="M337 300 l8 -12 8 12 Z"/><path d="M337 330 l8 -12 8 12 Z"/>
+    <path d="M452 330 l8 -12 8 12 Z"/><path d="M452 360 l8 -12 8 12 Z"/>
+    <path d="M567 280 l8 -12 8 12 Z"/><path d="M597 280 l8 -12 8 12 Z"/>
+  </g>
+  <rect width="1440" height="491" fill="url(#fade)"/>
+</svg>

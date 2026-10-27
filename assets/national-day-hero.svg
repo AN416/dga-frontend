@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="491" viewBox="0 0 1440 491" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="ndsky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B3D27"/>
+      <stop offset="1" stop-color="#14573A"/>
+    </linearGradient>
+    <linearGradient id="ndfade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B3D27" stop-opacity="0"/>
+      <stop offset="1" stop-color="#092A1E" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="491" fill="url(#ndsky)"/>
+  <!-- arched old-architecture facade, green tint -->
+  <g fill="#1E6B47">
+    <path d="M0 491 V240 H640 V491 Z"/>
+  </g>
+  <g fill="#0E4A30">
+    <path d="M40 491 v-180 a30 36 0 0 1 60 0 v180 Z"/>
+    <path d="M140 491 v-180 a30 36 0 0 1 60 0 v180 Z"/>
+    <path d="M240 491 v-180 a30 36 0 0 1 60 0 v180 Z"/>
+    <path d="M340 491 v-180 a30 36 0 0 1 60 0 v180 Z"/>
+    <path d="M440 491 v-180 a30 36 0 0 1 60 0 v180 Z"/>
+    <path d="M540 491 v-180 a30 36 0 0 1 60 0 v180 Z"/>
+  </g>
+  <g fill="#2A7A52">
+    <path d="M0 240 L0 200 L640 200 L640 240 Z"/>
+    <path d="M30 200 l20 -28 20 28 Z"/><path d="M110 200 l20 -28 20 28 Z"/>
+    <path d="M190 200 l20 -28 20 28 Z"/><path d="M270 200 l20 -28 20 28 Z"/>
+    <path d="M350 200 l20 -28 20 28 Z"/><path d="M430 200 l20 -28 20 28 Z"/>
+    <path d="M510 200 l20 -28 20 28 Z"/><path d="M590 200 l20 -28 20 28 Z"/>
+  </g>
+  <!-- palm fronds -->
+  <g stroke="#2F8A5C" stroke-width="6" stroke-linecap="round" fill="none" opacity="0.7">
+    <path d="M700 491 V330"/>
+    <path d="M700 330 Q650 300 620 310"/>
+    <path d="M700 330 Q750 300 780 310"/>
+    <path d="M700 330 Q680 280 660 260"/>
+    <path d="M700 330 Q720 280 740 260"/>
+  </g>
+  <rect width="1440" height="491" fill="url(#ndfade)"/>
+</svg>

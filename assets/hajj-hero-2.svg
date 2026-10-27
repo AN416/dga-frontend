@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="491" viewBox="0 0 1440 491" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="h2sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10261B"/>
+      <stop offset="1" stop-color="#1B4332"/>
+    </linearGradient>
+    <linearGradient id="h2fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10261B" stop-opacity="0"/>
+      <stop offset="1" stop-color="#10261B" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="491" fill="url(#h2sky)"/>
+  <!-- minaret silhouettes at night -->
+  <g fill="#0A1B12">
+    <rect x="180" y="120" width="26" height="371"/>
+    <path d="M168 120 H218 L193 70 Z"/>
+    <rect x="420" y="160" width="26" height="331"/>
+    <path d="M408 160 H458 L433 110 Z"/>
+    <rect x="300" y="280" width="200" height="211"/>
+    <path d="M300 280 a100 60 0 0 1 200 0 Z" fill="#0E2418"/>
+  </g>
+  <!-- lanterns -->
+  <g fill="#D9B45B">
+    <circle cx="193" cy="100" r="5"/>
+    <circle cx="433" cy="140" r="5"/>
+    <circle cx="400" cy="250" r="4"/>
+  </g>
+  <rect width="1440" height="491" fill="url(#h2fade)"/>
+</svg>

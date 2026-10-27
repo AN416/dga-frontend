@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="24" viewBox="0 0 1440 24">
+  <defs>
+    <pattern id="ndp2" width="40" height="24" patternUnits="userSpaceOnUse">
+      <g fill="#ADB5BD" opacity="0.55">
+        <circle cx="8" cy="12" r="3"/>
+        <rect x="18" y="8" width="8" height="8" transform="rotate(45 22 12)"/>
+        <circle cx="34" cy="12" r="1.6"/>
+      </g>
+    </pattern>
+  </defs>
+  <rect width="1440" height="24" fill="url(#ndp2)"/>
+</svg>

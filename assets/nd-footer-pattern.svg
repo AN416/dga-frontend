@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="60" viewBox="0 0 1440 60">
+  <defs>
+    <pattern id="ndfp" width="60" height="60" patternUnits="userSpaceOnUse">
+      <g fill="none" stroke="#FFFFFF" stroke-width="1.2" opacity="0.25">
+        <path d="M30 8 L52 30 L30 52 L8 30 Z"/>
+        <path d="M30 20 L40 30 L30 40 L20 30 Z"/>
+      </g>
+    </pattern>
+  </defs>
+  <rect width="1440" height="60" fill="url(#ndfp)"/>
+</svg>

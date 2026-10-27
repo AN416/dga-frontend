@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="48" viewBox="0 0 190 48">
+  <g fill="none">
+    <!-- Saudi emblem: two crossed swords + palm -->
+    <g transform="translate(158,4)" stroke="#FFFFFF" stroke-width="1.4" stroke-linecap="round">
+      <path d="M16 4 C12 11 12 20 16 27 C20 20 20 11 16 4 Z" fill="#FFFFFF" fill-opacity="0.2"/>
+      <path d="M5 34 L19 18" />
+      <path d="M27 34 L13 18" />
+      <path d="M4 36 h24" stroke-width="1.8"/>
+    </g>
+    <text x="150" y="21" font-family="IBM Plex Sans Arabic, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="end">هيئة الحكومة الرقمية</text>
+    <text x="150" y="37" font-family="IBM Plex Sans Arabic, sans-serif" font-size="8" fill="#FFFFFF" fill-opacity="0.85" text-anchor="end">Digital Government Authority</text>
+  </g>
+</svg>

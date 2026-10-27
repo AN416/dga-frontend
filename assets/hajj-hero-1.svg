@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="491" viewBox="0 0 1440 491" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="h1sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F3F4F6"/>
+      <stop offset="1" stop-color="#E5E7EB"/>
+    </linearGradient>
+    <linearGradient id="h1fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F3F4F6" stop-opacity="0"/>
+      <stop offset="0.55" stop-color="#F3F4F6" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#F3F4F6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="491" fill="url(#h1sky)"/>
+  <!-- Kaaba -->
+  <g>
+    <rect x="220" y="160" width="200" height="220" fill="#1F2A37"/>
+    <rect x="220" y="200" width="200" height="18" fill="#B49157"/>
+    <rect x="300" y="250" width="60" height="80" fill="#3A4555"/>
+  </g>
+  <!-- pilgrims (rows of small white dots) -->
+  <g fill="#FFFFFF" stroke="#D2D6DB" stroke-width="0.5">
+    <g>
+      <circle cx="80" cy="420" r="7"/><circle cx="110" cy="432" r="7"/><circle cx="140" cy="418" r="7"/>
+      <circle cx="170" cy="430" r="7"/><circle cx="200" cy="420" r="7"/><circle cx="230" cy="434" r="7"/>
+      <circle cx="260" cy="422" r="7"/><circle cx="290" cy="432" r="7"/><circle cx="320" cy="420" r="7"/>
+      <circle cx="350" cy="430" r="7"/><circle cx="380" cy="420" r="7"/><circle cx="410 " cy="433" r="7"/>
+      <circle cx="440" cy="421" r="7"/><circle cx="470" cy="431" r="7"/><circle cx="500" cy="419" r="7"/>
+      <circle cx="95" cy="455" r="8"/><circle cx="130" cy="465" r="8"/><circle cx="165" cy="452" r="8"/>
+      <circle cx="200" cy="463" r="8"/><circle cx="235" cy="453" r="8"/><circle cx="270" cy="466" r="8"/>
+      <circle cx="305" cy="454" r="8"/><circle cx="340" cy="464" r="8"/><circle cx="375" cy="452" r="8"/>
+      <circle cx="410" cy="463" r="8"/><circle cx="445" cy="453" r="8"/><circle cx="480" cy="465" r="8"/>
+    </g>
+  </g>
+  <rect width="1440" height="491" fill="url(#h1fade)"/>
+</svg>
